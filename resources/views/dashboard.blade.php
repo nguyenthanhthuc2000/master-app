@@ -10,9 +10,9 @@
             <div class="max-w-sm rounded overflow-hidden shadow-lg">
                 <img class="w-full" src="https://www.nickdaoquan.vn/assets/images/homepage-bg-1.jpg" alt="Sunset in the mountains">
                 <div class="px-6 py-4">
-                    <div class="font-bold text-xl mb-2">demo.nickdaoquan.vn</div>
+                    <div class="font-bold text-xl mb-2">nickdaoquan.vn</div>
                     <p class="text-gray-700 text-base">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.
+                    Tạo tài khoản có email ở nickdaoquan.vn khớp với tài khoản ở master.nickdaoquan.vn sau đó đăng nhập vào nickdaoquan.vn bằng nút truy cập bên dưới
                     </p>
                 </div>
                 <div class="px-6 pt-4 pb-2">
